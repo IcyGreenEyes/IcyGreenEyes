@@ -15,6 +15,6 @@
 ## 👤 Me in this moment
 <p align="center">
     <a href="https://discord.com/users/599670469716869150" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/612460795124776960?idleMessage=Probably%20coding%20Vitems..." alt="Discord Presence" align="center">
+        <img src="https://lanyard-profile-readme.vercel.app/api/599670469716869150?idleMessage=Probably%20coding%20Vitems..." alt="Discord Presence" align="center">
     </a>
 </p>
