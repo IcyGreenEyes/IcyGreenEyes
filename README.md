@@ -8,7 +8,7 @@
 ## 🚀 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nodejs,express,vscode,neovim,vim,atom,cloudflare,git,github,discord,bots,linux,mongodb,nginx,redis,wordpress,heroku&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,vim,cloudflare,git,github,discord,bots,linux,mongodb,nginx,redis&perline=11" />
   </a>
 </p>
 
