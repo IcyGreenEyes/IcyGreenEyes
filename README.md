@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[VerzCore Plugin](https://dsc.gg/verzdev/)**
-- 📫 How to reach me **[IcyGreenEyes#5528](https://discord.com/users/599670469716869150)** in Discord
+- 📫 How to reach me **[IcyGreenEyes#5528](https://discord.com/users/1259985943474212914)** in Discord
 - 👨‍💻 All of my projects are available at **[VerzMC Studios](https://dsc.gg/verzdev/)**
 
 ## 🚀 Languages and Tools:
