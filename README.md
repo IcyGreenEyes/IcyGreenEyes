@@ -14,7 +14,7 @@
 
 ## 👤 Me in this moment
 <p align="center">
-    <a href="https://discord.com/users/599670469716869150" target="_blank" rel="nofollow">
+    <a href="https://discord.com/users/1259985943474212914" target="_blank" rel="nofollow">
         <img src="https://lanyard-profile-readme.vercel.app/api/599670469716869150?idleMessage=Probably%20learning%20Java%20and%20Python..." alt="Discord Presence" align="center">
     </a>
 </p>
