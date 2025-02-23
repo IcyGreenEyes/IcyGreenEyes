@@ -1,9 +1,9 @@
 <h1 align="center">Hi, i’m @IcyGreenEyes</h1>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[VerzCore Plugin](https://dsc.gg/verzdev/)**
-- 📫 How to reach me **[IcyGreenEyes#5528](https://discord.com/users/1259985943474212914)** in Discord
-- 👨‍💻 All of my projects are available at **[VerzMC Studios](https://dsc.gg/verzdev/)**
+- 🔭 I’m currently working on **[Learning](https://discord.com/app)**
+- 📫 How to reach me **[IcyGreenEyes](https://discord.com/users/1259985943474212914)** in Discord
+- 👨‍💻 All of my projects are available at **[Soon](https://discord.com/app)**
 
 ## 🚀 Languages and Tools:
 <p align="center">
